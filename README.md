@@ -1,6 +1,6 @@
 Hello there! 
 🤵 About Me:
-💞️ I’m learning in data science and machine learning
+💞️ I’m learning  data science and machine learning
 💞️ I’m looking to collaborate on internships on data science
 🌱 I’m currently NLP and Deep Learning
 📫 Feel free to reach me :
